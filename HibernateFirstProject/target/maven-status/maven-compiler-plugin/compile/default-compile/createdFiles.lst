@@ -1,0 +1,4 @@
+test\test\App.class
+test\test\dao\UserDao.class
+test\test\util\HibernateUtil.class
+test\test\entity\User.class
